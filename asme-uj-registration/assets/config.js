@@ -5,5 +5,5 @@
  * other private credentials in this file.
  */
 window.ASME_CONFIG = {
-  APPS_SCRIPT_URL: "YOUR_APPS_SCRIPT_WEB_APP_URL"
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbyQ3ClTtSEj0OSowgM89LjA9B1X9SwFYqiEjphOB0wnApjY7jNTdFgTogT7EXwVaxNIYg/exec"
 };
