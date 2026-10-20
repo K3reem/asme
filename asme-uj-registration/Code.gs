@@ -7,8 +7,8 @@
  * server-side validation reduce simple abuse but do not provide full security
  * or reliable identity verification. Review submissions periodically.
  */
-const SPREADSHEET_ID = "PASTE_YOUR_GOOGLE_SHEET_ID_HERE";
-const SHEET_NAME = "Applications";
+const SPREADSHEET_ID = "1yWwsYAn1wG19xt2Adaj476w9UINnFRHkSgEvJUGdL7c";
+const SHEET_NAME = "GGGG";
 const HEADERS = [
   "Timestamp", "Full Name", "Email Address", "Phone Number", "University Major",
   "Team Preference", "Year of Study",
